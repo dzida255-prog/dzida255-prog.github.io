@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.dzida255_prog.twa",
+        "sha256_cert_fingerprints": ["9E:10:D1:A4:6B:EE:88:39:D3:F5:45:BC:8B:4A:AA:DA:59:B9:81:B4:2B:38:F6:E5:C8:AC:49:96:2B:9B:B4:41"]
+      }
+    }]
